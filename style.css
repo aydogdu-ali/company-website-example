@@ -1,3 +1,13 @@
+
+/*ekip*/
+
+.image_ekip{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+
+
 /*card*/
 
 @media screen and (max-width:1400px) and (min-width:1200px){
