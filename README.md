@@ -1,3 +1,10 @@
-# company-website-example!
+# Herkese Merhaba,
 
-[boostrapt](https://user-images.githubusercontent.com/108414013/234336251-9b4e1319-7249-4675-8973-37f5ae5ae043.gif)
+#Bu web uygulamasında Bootstrap kullanılarak küçük ölçekli bir işletme web sayfası kodlanmıştır.
+
+#Bu uygulamada mobil uyumluluğa dikkat edilmiştir. 
+
+
+
+https://user-images.githubusercontent.com/108414013/234355189-e0731918-72c3-495a-9250-79c50f1d90cd.mp4
+
